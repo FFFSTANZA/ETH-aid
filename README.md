@@ -1,4 +1,4 @@
-As the developer behind this Ethereum-based disaster management system, inspired by the recent Wayanad landslide, I've designed it to facilitate transparent and efficient aid distribution using blockchain technology. 
+**Ethereum-based disaster management system, inspired by the recent Wayanad landslide, I've designed it to facilitate transparent and efficient aid distribution using blockchain technology.**
 
 Workflow Overview:
 
