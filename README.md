@@ -34,3 +34,6 @@ This system is designed not only to manage disaster response effectively but als
 
 Blockchain's capability to facilitate direct transactions eliminates the need for intermediaries, reducing the administrative overhead and potential points of corruption. Donors can track how their contributions are being utilized, and recipients can verify that the aid promised is indeed what they receive. This direct link not only fosters trust but also encourages more people to contribute, knowing that their help directly impacts the beneficiaries.
 
+
+https://youtu.be/c-cvAg96DkI?si=JHVkFs8DbkR9Zzgf
+
