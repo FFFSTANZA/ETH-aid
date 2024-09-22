@@ -1,0 +1,94 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-image: url('./assets/images/Mainpage.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+}
+
+h1, h2 {
+    color: #0af;
+    font-weight: bold;
+}
+
+button {
+    background-color: #0af;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #08d;
+}
+
+input[type="number"], select {
+    padding: 10px;
+    margin: 5px 0;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin: 10px 0;
+    background-color: rgba(0, 174, 255, 0.2);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+textarea {
+    width: 100%;
+    height: 100px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    resize: none;
+}
+.donor-page, .aid-receiver-page {
+    background-image: url('./assets/images/carousel1.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.item {
+    margin: 10px;
+    padding: 10px;
+    width: calc(100% - 20px); /* Adjust width based on padding */
+}
+
+.text-input {
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+
+/* You can add specific classes to your components when you render them to apply these styles */
+
+@import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css";
